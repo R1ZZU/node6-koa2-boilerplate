@@ -1,0 +1,5 @@
+{
+  "name": "node6-koa2-boilerplate",
+  "script": "./bootstrap.js",
+  "watch": true
+}
